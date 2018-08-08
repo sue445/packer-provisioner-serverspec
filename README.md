@@ -1,7 +1,7 @@
 Packer Serverspec Provisioner
 ================================
 
-[![Circle CI](https://circleci.com/gh/unifio/packer-provisioner-serverspec.svg?style=svg)](https://circleci.com/gh/unifio/packer-provisioner-serverspec)
+[![CircleCI](https://circleci.com/gh/sue445/packer-provisioner-serverspec/tree/master.svg?style=svg)](https://circleci.com/gh/sue445/packer-provisioner-serverspec/tree/master)
 
 Verifies VM configuration with Serverspec running remotely on the build server
 
